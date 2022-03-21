@@ -1,1 +1,2 @@
-# bo24-7
+# bongo
+Discord music bot written in golang
